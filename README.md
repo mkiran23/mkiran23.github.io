@@ -37,7 +37,7 @@ resulting in <b> reduced manual testing efforts by 50% </b>
 
 ## 💻 My Projects 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkiran23&repo=AutomationFramework)(https://github.com/mkiran23/AutomationFramework)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkiran23&repo=AutomationFramework)](https://github.com/mkiran23/AutomationFramework)
 
 ## 💼 Technical Skills
 
