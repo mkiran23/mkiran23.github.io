@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/kiranm23/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/bhagyashreemsahu/bhagyashreemsahu/master/github-header-image.png" alt="My banner">
+    <img src="https://github.com/mkiran23/mkiran23.github.io/blob/main/github-header-image.png" alt="My banner">
   </a>
 </p>
 
