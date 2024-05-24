@@ -51,12 +51,12 @@ resulting in <b> reduced manual testing efforts by 50% </b>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
 </p>
 
 ## 📈 GitHub Stats 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mkiran23&show_icons=true&locale=en" alt="mkiran23" /></p>
+[![Kiran's github stats](https://github-readme-stats.vercel.app/api?username=mkiran23)](https://github.com/mkiran23)
 
 ## Contact
 
